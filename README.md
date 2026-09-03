@@ -117,8 +117,8 @@ Builds practical tools that sit at the intersection of automation, clinical soft
 
 - 💼 Open to AI/ML Engineer opportunities
 - 🧬 Interests: Machine Learning, Clinical Software Development, Technical Writing
-- 🔗 GitHub: *add your profile link here*
-- 🔗 LinkedIn: www.linkedin.com/in/shahmubarakzaib
+- 🔗 GitHub:*https://github.com/zaibutman*
+- 🔗 LinkedIn:*www.linkedin.com/in/shahmubarakzaib*
 
 If this tool saved you time, a ⭐ on the repo goes a long way.
 
